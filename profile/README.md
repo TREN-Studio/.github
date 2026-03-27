@@ -17,6 +17,9 @@
   <a href="https://www.trenstudio.com/" target="_blank">
     <img src="https://img.shields.io/badge/Official_Website-trenstudio.com-f97316?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Official Website" />
   </a>
+  <a href="https://github.com/larbilife" target="_blank">
+    <img src="https://img.shields.io/badge/Lead_Developer-Larbi_Aboudi-f97316?style=for-the-badge&logo=github&logoColor=white" alt="Founder & Developer" />
+  </a>
 </p>
 
 ---
