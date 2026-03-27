@@ -1,8 +1,8 @@
 <!-- TREN Studio GitHub Organization Profile -->
 
 <p align="center">
-  <a href="https://www.trenstudio.com/">
-    <img src="https://img.icons8.com/color/144/artificial-intelligence.png" width="120" alt="TREN Studio AI Brain" />
+  <a href="https://www.trenstudio.com/" target="_blank">
+    <img src="logo.png" height="200" alt="TREN Studio" />
   </a>
 </p>
 
@@ -10,7 +10,7 @@
 <h3 align="center">The Future of Privacy-First AI Automation & High-Conversion Affiliate Engines</h3>
 
 <p align="center">
-  <i>"نحن لا نبني أدوات، نحن نبني أنظمة أرباح ذكية (ROI-Driven AI)."</i>
+  <i>"We don't just build tools; we forge ROI-driven AI systems."</i>
 </p>
 
 <p align="center">
@@ -30,21 +30,24 @@ The **PostGenius Pro** ecosystem is a manifestation of this vision: A fully dist
 ---
 
 ### 🛡️ The Imperial Arsenal (Tech Stack)
-- **High-Conversion UX:** React, TypeScript, Vite, Magazine-Style CSS, Responsive DOM Injection
-- **Distributed AI Brain:** Node.js Headless Agents, Playwright Synthetics, Cloudflare Edge Proxies
-- **VFX & Intelligence:** DeepSeek/Mistral Text Engines, NVIDIA Omniverse Vision, Stability AI Nodes
+- **High-Conversion UX:** React, TypeScript, Vite, Magazine-Style CSS, Responsive DOM Injection.
+- **Distributed AI Brain:** Node.js Headless Agents, Playwright Synthetics, Cloudflare Edge Proxies.
+- **VFX & Intelligence:** DeepSeek/Mistral Text Engines, NVIDIA Omniverse Vision, Stability AI Nodes.
 - **Zero-Footprint:** Fully air-gapped API key vaulting, local-first environments, no data harvesting.
 
 ---
 
-### 📈 Empire Activity
+### 🚀 Explore Our Infrastructure
+
+Discover the core engines powering the next generation of automated affiliate networks:
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=TREN-Studio&show_icons=true&theme=vue-dark&hide_border=true&title_color=f97316&icon_color=f97316" alt="TREN-Studio GitHub Stats" />
+  <a href="https://github.com/TREN-Studio/PostGenius-Pro-Core"><b>🌟 Explore The Core Engine</b></a> &nbsp; | &nbsp;
+  <a href="https://github.com/TREN-Studio/Admin-Agent-JS"><b>🧠 Command The Mastermind Agent</b></a>
 </p>
 
 <br/>
 
 <p align="center">
-  <a href="https://github.com/TREN-Studio/PostGenius-Pro-Core"><b>🌟 Explore The Core Engine</b></a> |
-  <a href="https://github.com/TREN-Studio/Admin-Agent-JS"><b>🧠 Command The Mastermind Agent</b></a>
+  <i>Developed and engineered by Larbi Aboudi.</i>
 </p>
