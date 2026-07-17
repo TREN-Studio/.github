@@ -7,6 +7,9 @@
 </p>
 
 <h1 align="center">TREN Studio</h1>
+
+<p align="center">
+  TREN provides AI-powered tools to help entrepreneurs and creators scale their business efficiently and securely.
 </p>
 
 <p align="center">
@@ -22,7 +25,7 @@
 
 ### Projects
 
-- [FORGE](https://github.com/TREN-Studio/FORGE) — Free Open Reasoning &amp; Generation Engine. Desktop AI operator for Windows.
+- [FORGE](https://github.com/TREN-Studio/FORGE) - Free Open Reasoning &amp; Generation Engine. Desktop AI operator for Windows.
 
 <br/>
 
