@@ -26,6 +26,7 @@
 ### Projects
 
 - [FORGE](https://github.com/TREN-Studio/FORGE) - Free Open Reasoning &amp; Generation Engine. Desktop AI operator for Windows.
+- [PostGenius Pro](https://www.trenstudio.com/PostgeniusPro/) - AI affiliate publishing engine. Turns products into ranking-ready review drafts.
 
 <br/>
 
