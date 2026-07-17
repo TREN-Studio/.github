@@ -7,10 +7,6 @@
 </p>
 
 <h1 align="center">TREN Studio</h1>
-<h3 align="center">The Future of Privacy-First AI Automation &amp; High-Conversion Affiliate Engines</h3>
-
-<p align="center">
-  <i>"We don't just build tools; we forge ROI-driven AI systems."</i>
 </p>
 
 <p align="center">
@@ -24,21 +20,9 @@
 
 ---
 
-### The 100K Vision
-At **TREN Studio**, we don't just write code; we architect **revenue-generating machines**. 
-Our master mission is to empower independent creators and marketers to break the corporate monopoly, dominate search results, and scale effortlessly towards a $100,000/yr autonomous affiliate business. 
+### Projects
 
-The **PostGenius Pro** ecosystem is a manifestation of this vision: A fully distributed, uncensored, and highly secure AI workforce that ensures **you** own your data, your engine, and your profit margins.
-
----
-
-### The Imperial Arsenal (Tech Stack)
-- **High-Conversion UX:** React, TypeScript, Vite, Magazine-Style CSS, Responsive DOM Injection.
-- **Distributed AI Brain:** Node.js Headless Agents, Playwright Synthetics, Cloudflare Edge Proxies.
-- **VFX &amp; Intelligence:** DeepSeek/Mistral Text Engines, NVIDIA Omniverse Vision, Stability AI Nodes.
-- **Zero-Footprint:** Fully air-gapped API key vaulting, local-first environments, no data harvesting.
-
----
+- [FORGE](https://github.com/TREN-Studio/FORGE) — Free Open Reasoning &amp; Generation Engine. Desktop AI operator for Windows.
 
 <br/>
 
