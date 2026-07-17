@@ -17,7 +17,7 @@
     <img src="https://img.shields.io/badge/Official_Website-trenstudio.com-f97316?style=for-the-badge&amp;logo=googlechrome&amp;logoColor=white" alt="Official Website" />
   </a>
   <a href="https://github.com/larbilife" target="_blank">
-    <img src="https://img.shields.io/badge/Lead_Developer-Larbi_Aboudi-f97316?style=for-the-badge&amp;logo=github&amp;logoColor=white" alt="Founder &amp; Developer" />
+    <img src="https://img.shields.io/badge/Founder_%26_Developer-Larbi_Aboudi-f97316?style=for-the-badge&amp;logo=github&amp;logoColor=white" alt="Founder &amp; Developer" />
   </a>
 </p>
 
@@ -26,7 +26,6 @@
 ### Projects
 
 - [FORGE](https://github.com/TREN-Studio/FORGE) - Free Open Reasoning &amp; Generation Engine. Desktop AI operator for Windows.
-- [PostGenius Pro](https://www.trenstudio.com/PostgeniusPro/) - AI affiliate publishing engine. Turns products into ranking-ready review drafts.
 
 <br/>
 
