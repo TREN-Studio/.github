@@ -45,8 +45,8 @@ The **PostGenius Pro** ecosystem is a manifestation of this vision: A fully dist
 Discover the core engines powering the next generation of automated affiliate networks:
 
 <p align="center">
-  <a href="https://github.com/TREN-Studio/PostGenius-Pro-Core"><b>🌟 Explore The Core Engine</b></a> &nbsp; | &nbsp;
-  <a href="https://github.com/TREN-Studio/Admin-Agent-JS"><b>🧠 Command The Mastermind Agent</b></a>
+  <a href="https://github.com/TREN-Studio/FORGE"><b>🌟 Explore The Core Engine</b></a> &nbsp; | &nbsp;
+  <a href="https://github.com/TREN-Studio/FORGE"><b>🧠 Command The Mastermind Agent</b></a>
 </p>
 
 <br/>
