@@ -24,7 +24,7 @@
 
 ---
 
-### 👑 The 100K Vision
+### 👑 Vision
 At **TREN Studio**, we don't just write code; we architect **revenue-generating machines**. 
 Our master mission is to empower independent creators and marketers to break the corporate monopoly, dominate search results, and scale effortlessly towards a $100,000/yr autonomous affiliate business. 
 
