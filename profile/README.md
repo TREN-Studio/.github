@@ -2,34 +2,38 @@
 
 <p align="center">
   <a href="https://www.trenstudio.com/" target="_blank">
-    <img src="logo.png" height="200" alt="TREN Studio" />
+    <img src="logo.png" height="180" alt="TREN Studio" />
   </a>
 </p>
 
 <h1 align="center">TREN Studio</h1>
 
 <p align="center">
-  TREN provides AI-powered tools to help entrepreneurs and creators scale their business efficiently and securely.
+  AI tools that help creators and founders ship faster — built by <b>Larbi Aboudi</b>.
 </p>
 
 <p align="center">
-  <a href="https://www.trenstudio.com/" target="_blank">
-    <img src="https://img.shields.io/badge/Official_Website-trenstudio.com-f97316?style=for-the-badge&amp;logo=googlechrome&amp;logoColor=white" alt="Official Website" />
-  </a>
-  <a href="https://github.com/larbilife" target="_blank">
-    <img src="https://img.shields.io/badge/Founder_%26_Developer-Larbi_Aboudi-f97316?style=for-the-badge&amp;logo=github&amp;logoColor=white" alt="Founder &amp; Developer" />
-  </a>
+  <a href="https://www.trenstudio.com/">Website</a> &nbsp;·&nbsp;
+  <a href="https://www.trenstudio.com/blog/">Blog</a> &nbsp;·&nbsp;
+  <a href="https://github.com/larbilife">Founder</a>
 </p>
 
 ---
 
-### Projects
+## Open source
 
-- [FORGE](https://github.com/TREN-Studio/FORGE) - Free Open Reasoning &amp; Generation Engine. Desktop AI operator for Windows.
-- [PostGenius Pro](https://www.trenstudio.com/PostgeniusPro/) - AI affiliate publishing engine. Turns products into ranking-ready review drafts.
+| Project | What it is |
+| :--- | :--- |
+| **[FORGE](https://github.com/TREN-Studio/FORGE)** | Free Open Reasoning & Generation Engine — a 7-layer AI operator that routes across free and local models. Python · MIT. |
 
-<br/>
+## Products
+
+- **PostGenius Pro** — AI affiliate publishing engine: turns products into ranking-ready review drafts → [trenstudio.com/PostgeniusPro](https://www.trenstudio.com/PostgeniusPro/)
+- **Insan AI** — Arabic-first AI humanizer and detector → [trenstudio.com/insan](https://www.trenstudio.com/insan/)
+- **TREN Studio Blog** — AI, tech and editorial notes → [trenstudio.com/blog](https://www.trenstudio.com/blog/)
+
+---
 
 <p align="center">
-  <i>Developed and engineered by Larbi Aboudi.</i>
+  <i>Developed and engineered by Larbi Aboudi · Agadir, Morocco.</i>
 </p>
